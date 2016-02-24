@@ -1,2 +1,2 @@
 # filoTool
-serie di tool per manipolazioni file
+serie di tool per manipolazioni file in c#.
